@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Header from "../components/Header";
-import "./layout.css";
+import "./Layout.css";
 import Footer from "../components/Footer";
 import loadingGif from "../assets/ifloriana-gif.gif";
 import Sidebar from "../components/sidebar";
